@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/consultantmissionary/static/css/main.073c9b0a.css",
+    "main.js": "/consultantmissionary/static/js/main.cfb180f9.js",
+    "static/js/787.96efe905.chunk.js": "/consultantmissionary/static/js/787.96efe905.chunk.js",
+    "static/media/logo.svg": "/consultantmissionary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/consultantmissionary/index.html",
+    "main.073c9b0a.css.map": "/consultantmissionary/static/css/main.073c9b0a.css.map",
+    "main.cfb180f9.js.map": "/consultantmissionary/static/js/main.cfb180f9.js.map",
+    "787.96efe905.chunk.js.map": "/consultantmissionary/static/js/787.96efe905.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cfb180f9.js"
+  ]
+}
